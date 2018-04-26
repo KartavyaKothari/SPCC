@@ -1,0 +1,21 @@
+Remaining:
+
+3. Create Symbol table for pass 1 of 2pass assmbler
+4. Create MNT and MDT
+
+DONE:
+
+1. Token Generation and Lexical Analysis
+2. Identify Mnemonics from ASM program
+5. Link 2 C programs
+7. Find FIRST
+8. Find FOLLOW
+9. Implement operator precedence parser
+10. Removal of Left Recurrsion
+11. Removal of Left Factoring
+12. Optimizing Technique
+  a. loop unrolling
+  b. code motion
+  c. dead code elimination
+  d. peephole optimization
+  f. function inlining
